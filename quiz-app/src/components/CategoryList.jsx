@@ -33,7 +33,7 @@ export const CategoryList = () => {
               <Card sx={{ maxWidth: 345 }}>
                 <CardMedia
                   sx={{ height: 250 }}
-                  image="/src/assets/deportes.jfif"
+                  image="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/f31c0ac0-8bbc-4c26-9df1-573196c664dd"
                   title="green iguana"
                 />
                 <CardContent>
@@ -58,7 +58,7 @@ export const CategoryList = () => {
               <Card sx={{ maxWidth: 345 }}>
                 <CardMedia
                   sx={{ height: 250 }}
-                  image="/src/assets/historia.jpg"
+                  image="https://buen-saber.com/wp-content/uploads/2020/06/15-preguntas-de-historia-universal.jpg"
                   title="green iguana"
                 />
                 <CardContent>
@@ -83,7 +83,7 @@ export const CategoryList = () => {
               <Card sx={{ maxWidth: 345 }}>
                 <CardMedia
                   sx={{ height: 250 }}
-                  image="/src/assets/geografia.png"
+                  image="https://play-lh.googleusercontent.com/EbXvue6qWBOpR5PBdtWjj6rwh5ftcN192bQ8CUaKj35FfJHaLAgdMpQMkQas6H1MF5eY"
                   title="green iguana"
                 />
                 <CardContent>
